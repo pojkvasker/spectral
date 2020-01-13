@@ -1,0 +1,9 @@
+Instructions Lab 2:
+
+Run the file "lab_interface.m". 
+
+If you encounter a bug in the interface, such that you cannot choose the MA-order
+for the LSARMA estimator, please choose the MYW estimator, 
+set the MA-order to "0", and then choose the LSARMA estimator 
+(you can now select the MA-order).
+If this does not work, you may need to restart "lab_interface.m".

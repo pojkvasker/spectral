@@ -1,0 +1,8 @@
+Instructions Lab 1:
+
+
+For exercise C2.17/2.19, run "zeropadding.m". The blue curve shows the zero-padded periodogram. The yellow curve shows the "theoretical" periodogram (padded with many zeros). The red lines show the true frequencies of the signal.
+
+For exercise C2.18/2.20, Resolution properties, run "resolution.m". To change the parameters, move the slide bars. Note that in this matlab script, the noise level is set to zero and the amplitudes of the both sinusoids are set to 1. For part d), it is sufficient to use (a1,a2) = (1,1) and no noise.
+
+For exercise C2.18/2.20, Spectral leakage, run "leakage.m". For C2.18d/2.20d, it is sufficient to use the "60dB Cheb Win" checkbox to see whether the sinusoids can be resolved or not. No comparison with the Blackman-Tukey estimate is necessary.

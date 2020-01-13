@@ -1,0 +1,4 @@
+Instructions Lab 3:
+
+Run the file "lab_interface.m". Note that for the d-part, you need not compare any results. 
+However, think about the problem and the differences between the techniques.
